@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## install
 
 `npm i prop-types`
+
+`npm install prettier --save-dev`
