@@ -76,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 `npm i prop-types`
 
 `npm install prettier --save-dev`
+
+`npm install react-router-dom`
